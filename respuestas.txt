@@ -1,2 +1,15 @@
+2) f) respuestas
 
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+    No puedo ver ese archivo porque pertenece a la rama Opcion_2 y 
+    yo estoy parado en la rama principal main
+
+
+En la línea principal agregue un nuevo archivo que se llame Respuestas.txt y
+realice un commit para agregar este archivo al repositorio.
+vuelva a ejecutar el comando gitk --all ¿Qué diferencias nota?
+    Puedo ver la ramificacion de las ramas
+
+¿Que nota despues de aplicar marge de la rama principal con Opcion_2?
+    ahora tengo acceso a todo lo de la rama Opcion_2, se unifico la carpeta
 
